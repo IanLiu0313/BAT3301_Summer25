@@ -1,5 +1,53 @@
 ---
-title: "Course Title"
+title: "BAT 3301 – Operations Management Syllabus"
 ---
 
-Course info & details here
+## Course Overview
+
+**Course Description**
+
+Welcome to BAT 3301 – Operations Management. During this course, you will learn about the beauty of operations management in many industries. The purpose of this course for you is to understand the common managerial processes for effective operations in both manufacturing and service-oriented industries. In addition, we also want to understand the importance of how profoundly scientific developments in the area of Operations Management (OM) affect society and the environment. Students who have taken this course should be able to demonstrate the proficiency in understanding, analyzing, and modeling problems in support of decision-making in the area of OM. To achieve this goal, we will not only learn from the lectures but also research how the latest companies and business models are being operated.
+
+## Class Meetings and Locations
+
+| Session # | Location | Time                 |
+|---------|----------|------------------------|
+| Session 3 | Richardson Center 320  | T/Th  12:45 PM - 2:00 PM|
+| Session 4 | Richardson Center 320  | T/Th  2:10 PM - 3:25 PM|
+
+
+## Teaching Team 
+
+| Name        |  Email | Phone | Office Hours   | Office Location    | Zoom |
+|-------------|--------|-------|----------------|-------------|------|------|
+| Ian Liu     |  [yliu2@trinity.edu](yliu2@trinity.edu) | 210-999-7635 | T & Th 4-5PM \& F 2-4PM | Chapman 416 |  [Zoom](https://trinity.zoom.us/j/4090111710)    |
+
+
+
+## Mini-Essay Topics
+
+| Topic                 | Due Dates   |
+|----------------------|----------------|
+| 1. Shein, Temu or Anything You Use For Online Shopping | 11:59PM 01/28/2025 | 
+| 2. $6000 Off Of MSRP, Discount On Financing APR, I Still Got Ripped Off By The Dealership, Why? | 11:59PM 02/04/2025  |
+| 3. Southwest Airlines  | 11:59PM 02/11/2025 |
+| 4. Small Businesses With Amazing Profit Margins  | 11:59PM 02/25/2025  |
+| 5. OpenAI And Its Competitors  | 11:59PM 03/04/2025  |
+| 6. Higher Educations(Private) and Their Operations Model  | 11:59PM 03/18/2025  |
+| 7. Manufacturing Companies Are Relocating Their Factories, Why?  | 11:59PM 04/01/2025  |
+| 8. The Impact of AI On Operations Management  | 11:59PM 04/08/2025  |
+| 9. Stockbrokers Are Waiving Their Trading Fees; They Are Still Very Profitable, Why?  | 11:59PM 04/15/2025  |
+| 10. Would You Invest In Cryptos, Why Or Why Not? | 11:59PM 04/22/2025  |
+
+
+## Homework
+
+| Topic                 | Due Dates   |
+|----------------------|----------------|
+| HW_1 on Productivity | Find on Canvas  | 
+| HW_2 on Forecasting | Find on Canvas  | 
+| HW_3 on Project and Capacity Management | Find on Canvas  | 
+| HW_4 on Process Management and Assembly Line Balancing  | Find on Canvas  | 
+| HW_5 on Planning and Quality Management | Find on Canvas  | 
+| HW_6 on Inventory Management | Find on Canvas  | 
+| HW_7 on Operations Research | Find on Canvas  | 
