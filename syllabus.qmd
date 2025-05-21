@@ -55,13 +55,13 @@ It is required to finish the the assigned readings before coming to the lectures
 
 | Category                          | Percentage |
 |-----------------------------------|------------|
-| Participation/Notes Submissions   | 5%         |
-| Mini Essays                       | 10%        |
-| Group Project                     | 10%        |
+| Participation/Notes Submissions   | 1% * 14 = 14%         |
+| Mini Essays                       | 2% * 6 = 12%        |
+| Class Project                     | 8%        |
 | Exam 01                           | 15%        |
 | Exam 02                           | 15%        |
-| Exam 03                           | 20%        |
-| 7 Homeworks                       | 25%        |
+| Exam 03                           | 15%        |
+| 7 Homeworks                       | 3% * 7 = 21%|
 
 
 ```{python}
@@ -70,8 +70,8 @@ It is required to finish the the assigned readings before coming to the lectures
 import matplotlib.pyplot as plt
 
 # Data to plot
-labels = ['Participation/Notes Submissions',' Mini Essays','Group Project','Exam 01','Exam 02','Exam 03','7 Homeworks']
-sizes = [5,10,10,15,15,20,25]  # Percentages
+labels = ['Participation/Notes Submissions',' Mini Essays','Project','Exam 01','Exam 02','Exam 03','7 Homeworks']
+sizes = [14,12,8,15,15,15,21]  # Percentages
 colors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue', 'lightgreen', 'purple', 'red']
 
 # Plot
@@ -102,7 +102,7 @@ There will be THREE exams. Through these exams you have the opportunity to demon
 
 ### Homework & Mini-Essays
 
-There will be 7 homework (the lowest 1 grade will be dropped), and 10 300-word mini essays in this course. Mini-essays are designed to help you understand cutting-edge business models and prepare to ace job interviews in the future. There will be a few random quizzes and other in-class activities in this course. In-class activities are designed to help you learn the material, and you are encouraged to complete them. 
+There will be 7 homework, and 6 300-word mini essays in this course. Mini-essays are designed to help you understand cutting-edge business models and prepare to ace job interviews in the future. There will be a few random quizzes and other in-class activities in this course. In-class activities are designed to help you learn the material, and you are encouraged to complete them. 
 
 Homework assignments are posted on Canvas and should be legible, complete, and **typed**. Computational steps and details must be shown to earn full credits. Homework assignments are to be turned in at 11:59 PM on their due dates. **You are allowed a grace period of two day for late submissions**, but any late submissions after that will not be accepted. 
 
@@ -133,14 +133,6 @@ Accommodated testing can be taken in the Accommodated Testing Center between the
 Trinity University is committed to providing equal access and equal opportunity to students with disabilities. As a sign of that commitment, the office of Student Accessibility Services (SAS) is to assist students who seek accommodations. Information is available at: https://new.trinity.edu/campuslife/campus-services/student-accessibility-services. Please let me know if you need any assistance as early as possible.
 
 Accommodated testing can be taken in the Accommodated Testing Center between the hours of 8:30 a.m. and 4:30 p.m. on the exam dates. You must utilize the testing center if you want any allotted extra time for your exams. Students are responsible for scheduling their exams with the ATC. Students must take exams at the ATC on or before the scheduled exam dates.
-
-### Grades Boosting Opportunities?
-
-Yes. I plan to drop **ONE** lowest homework grades by the end of the semester. At least **TWO** extra credit opportunities will be offered throughout the semester. Stay tuned :)
-
-### Final Project
-
-For the final project in this course, students will be asked to use what they have learned to solve a practical solution to a ‘real world’ problem. The final project is designed to integrate the knowledge and skills acquired throughout the semester. In groups of 5-6, students will select a real-world problem of their choice and propose a research question that can be addressed using the knowledge covered throughout the course, or read, study and present a research paper in Operations Management that has a good citation number. More discussions and information will be offered after Exam 2.
 
 ## Academic Honesty and Policy on the Usage of Generative AI (IMPORTANT)
 
@@ -187,14 +179,3 @@ As a Responsible Employee who is committed to creating an environment where ever
 ## Policy on Syllabus Changes and Contractual Obligations
 
 This syllabus and course outline are subject to change in the discretion of the instructor during the course of the semester. Changes may be necessary because of student’s specific interest, the general class progression and emerging topics of interest. If any changes are implemented, they will be announced in class and/or posted to Canvas.
-
-## Important dates
-- **Jan 10**: Add/Drop Begins
-- **Jan 15**: Classes Begin	
-- **Jan 20**: MLK Holiday
-- **Jan 23**: Add/Drop Ends
-- **Feb 05**:  Last Day Opt Pass/Fail
-- **Mar 08-16**: Spring Break
-- **Apr 02**: Last Day to Withdraw With a W
-- **Apr 18**: Class Recess
-- **TBA**: Final Exam(Location TBA)
